@@ -1,0 +1,13 @@
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.DS_Store
+.idea/
+# No se versiona la base original ni los resultados generados sin revisar licencia/privacidad.
+#data/raw/*.csv
+results/tables/*.csv
+results/figures/*.png
+results/models/*
+data/raw/cirrhosis_uci_original.csv
